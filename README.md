@@ -1,4 +1,4 @@
-# Linear_Regression-Boston_House_Pricing
+# Linear Regression - Boston House Pricing
 Using SciKit-Learn and Python to create a linear regression model for Boston House Pricing.
 
 Boston house prices dataset
